@@ -16,8 +16,10 @@ Design goals:
 
 - External cooling
   - 247/0 Modified ESP (to pull in enclosure air)
-
-- >$600 USD
+  
+- MGN9C Bowden on X
+  - IKO Mgn9c rails
+  - Less toolhead flop
 
 Upgrades:
 - 247/0 Beta1 (By 247printing https://247printing.gumroad.com/)
@@ -25,3 +27,4 @@ Upgrades:
 - AWD NEMA17 V0 (By Coconut)
 - Dual actively cooled Lrs-150s (By Coconut)
 - Dual skr mini e3 v2 (By Coconut)
+- MGN9C on X Bowden (By Coconut)
