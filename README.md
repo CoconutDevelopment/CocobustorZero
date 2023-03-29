@@ -24,7 +24,8 @@ Design goals:
 Upgrades:
 - 247/0 Beta1 (By 247printing https://247printing.gumroad.com/)
 - Tri-Zero (By zruncho3d, csch0, flyespresso, harry-boe https://github.com/zruncho3d/tri-zero)
-- AWD NEMA17 V0 (By Coconut)
+- AWD NEMA17 V0 CE (By Coconut)
+- AWD NEMA17 V0 LE (By LittleTimTim)
 - Dual actively cooled Lrs-150s (By Coconut)
 - Dual skr mini e3 v2 (By Coconut)
 - MGN9C on X Bowden (By Coconut)
