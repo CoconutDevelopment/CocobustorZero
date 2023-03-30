@@ -30,15 +30,12 @@ Upgrades:
 - Dual skr mini e3 v2 (By Coconut)
 - MGN9C on X Bowden (By Coconut)
 
-I
-
-
-![image](https://user-images.githubusercontent.com/129321661/228639043-8ef7fb7c-8b62-4627-8474-c55af02f191d.png)
+LittleTimTim's V0 AWD mod https://github.com/LittleTimTim/V0-AWD-Tim-Style
 
 ![image2](https://user-images.githubusercontent.com/129321661/228639136-eec65de8-ec49-41f3-b65c-500acabc3dde.jpg)
 
 https://user-images.githubusercontent.com/129321661/228639436-86d11ff1-20ca-46b5-aa57-27f5ffe6771b.mp4
 
-https://user-images.githubusercontent.com/129321661/228639209-f505d235-a20b-4d33-a5d6-68dab8504cda.mp4
 
-LittleTimTim's V0 AWD mod https://github.com/LittleTimTim/V0-AWD-Tim-Style
+
+
