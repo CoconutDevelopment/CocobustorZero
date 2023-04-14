@@ -29,6 +29,7 @@ Upgrades:
 - Dual actively cooled Lrs-150s (By Coconut)
 - Dual skr mini e3 v2 (By Coconut)
 - MGN9C on X Bowden (By Coconut)
+- Vzbot inspired frame braces (By Kl3pt https://www.printables.com/model/450049-voron-v0-frame-brace)
 
 LittleTimTim's V0 AWD mod https://github.com/LittleTimTim/V0-AWD-Tim-Style
 
