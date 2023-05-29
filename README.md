@@ -16,10 +16,19 @@ Design goals:
 
 - External cooling
   - 247/0 Modified ESP (to pull in enclosure air)
-  
-- MGN9C Bowden on X
-  - IKO Mgn9c rails
-  - Less toolhead flop
+
+- Extremely Lightweight X gantry
+  - Cnc X carriage
+  - Bowden 247/0 toolhead
+  - External esp
+  - Ultralight Xy joints
+  - CNC hollowed mgn9 rail
+
+- Nema17 4WD Coconut edition
+  - Extreme motor grip (200+ degrees)
+  - Straight belt path
+  - Integrated motor idlers
+  - Fits all in the back 
 
 Upgrades:
 - 247/0 Beta1 (By 247printing https://247printing.gumroad.com/)
@@ -29,13 +38,21 @@ Upgrades:
 - Dual actively Lrs-150s (By Coconut)
 - MGN9C on X Bowden (By Coconut)
 - Vzbot inspired frame braces (By Kl3pt https://www.printables.com/model/450049-voron-v0-frame-brace)
-- Dual skr mini e3 v2
+- Skr mini e3 v2 + Annex Constellation supernova
+- 48V Meanwell UHP-500-48
+- Ultralightweight X gantry + XY joints
+
+Coconut's V0 AWD V2 mod
+
+https://github.com/CoconutDevelopment/Stock-Voron-0/assets/110824572/2347116c-7d85-4f20-80be-5c78683e5cea
+
 
 LittleTimTim's V0 AWD mod https://github.com/LittleTimTim/V0-AWD-Tim-Style
 
-![image2](https://user-images.githubusercontent.com/129321661/228639136-eec65de8-ec49-41f3-b65c-500acabc3dde.jpg)
 
-https://user-images.githubusercontent.com/129321661/228639436-86d11ff1-20ca-46b5-aa57-27f5ffe6771b.mp4
+
+https://github.com/CoconutDevelopment/Stock-Voron-0/assets/110824572/6bcad486-bbd0-41eb-bcec-efc06d3bc0a4
+
 
 
 
