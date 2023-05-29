@@ -24,6 +24,12 @@ Design goals:
   - Ultralight Xy joints
   - CNC hollowed mgn9 rail
 
+- Nema17 4WD Coconut edition
+  - Extreme motor grip (200+ degrees)
+  - Straight belt path
+  - Integrated motor idlers
+  - Fits all in the back 
+
 Upgrades:
 - 247/0 Beta1 (By 247printing https://247printing.gumroad.com/)
 - Triple Z (By Coconut, Based on https://www.teamfdm.com/files/file/319-v01-belted-z-drive/)
@@ -43,7 +49,11 @@ https://github.com/CoconutDevelopment/Stock-Voron-0/assets/110824572/2347116c-7d
 
 LittleTimTim's V0 AWD mod https://github.com/LittleTimTim/V0-AWD-Tim-Style
 
-![image2](https://user-images.githubusercontent.com/129321661/228639136-eec65de8-ec49-41f3-b65c-500acabc3dde.jpg)
+
+
+https://github.com/CoconutDevelopment/Stock-Voron-0/assets/110824572/6bcad486-bbd0-41eb-bcec-efc06d3bc0a4
+
+
 
 
 
