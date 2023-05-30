@@ -1,4 +1,4 @@
-# Stock-Voron-0
+# CocobustorZero
 An small upgrade for the Voron 0.1 to make it print slightly faster (based on 247/0 BETA 1)
 BASED ON VORONDESIGN V0.1 https://github.com/VoronDesign/Voron-0
 
