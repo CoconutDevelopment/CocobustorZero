@@ -14,7 +14,7 @@ Design goals:
   - 48-60mm NEMA17 support
   - Seperate control board
 
-- Belted z (60t gearing)
+- Belted z (80t gearing)
   - Fast Z hops and no z binding
 
 - External cooling
@@ -49,6 +49,7 @@ Upgrades:
 - Skr mini e3 v2 + Annex Constellation supernova
 - 48V Meanwell UHP-500-48
 - Ultralightweight X gantry + XY joints
+- Modded Thick Belted Z (By MathmaticalPotato https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/MathematicalPotato/v0.1_belted_z_drive)
 
 Coconut's V0 AWD V2 mod
 (On RC1)
