@@ -53,8 +53,11 @@ Upgrades:
 - Ultralightweight X gantry + XY joints
 
 Coconut's V0 AWD V2 mod
+(On RC1)
 
-https://github.com/CoconutDevelopment/Stock-Voron-0/assets/110824572/2347116c-7d85-4f20-80be-5c78683e5cea
+
+https://github.com/CoconutDevelopment/CocobustorZero/assets/110824572/ccff1a14-459e-45de-a45c-08869c3bc4b1
+
 
 
 LittleTimTim's V0 AWD mod https://github.com/LittleTimTim/V0-AWD-Tim-Style
