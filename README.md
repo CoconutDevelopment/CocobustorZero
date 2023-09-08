@@ -1,6 +1,7 @@
 # CocobustorZero
-An small upgrade for the Voron 0.1 to make it print slightly faster (based on 247/0 BETA 1)
+An small upgrade for the Voron 0.2 to make it print slightly faster
 BASED ON VORONDESIGN V0.1 https://github.com/VoronDesign/Voron-0
+Inspired by 247/0 Beta2
 
 Design goals:
 - Speedbenchy WR (Sub 2-minute)
@@ -11,15 +12,16 @@ Design goals:
   - 48-60mm NEMA17 support
   - Seperate control board
 
-- 3 motor Tri Z (60t gearing)
-  - Fast Z hops and auto tramming
+- Belted z (60t gearing)
+  - Fast Z hops and no z binding
 
 - External cooling
-  - 247/0 Modified ESP (to pull in enclosure air)
+  - Ground's Internal Sheet Cooling Ducts
+  - 12KPA CPAP fan
 
 - Extremely Lightweight X gantry
   - Cnc X carriage
-  - Bowden 247/0 toolhead
+  - Bowden Ultralight Toolhead
   - External esp
   - Ultralight Xy joints
   - CNC hollowed mgn9 rail
@@ -28,10 +30,14 @@ Design goals:
   - Extreme motor grip (200+ degrees)
   - Straight belt path
   - Integrated motor idlers
-  - Fits all in the back 
+  - Fits all in the back
+
+- Enclosure
+    - Has to be enclosable using the 0.2 Tophat
+    - Has to be ABS capable
 
 Upgrades:
-- 247/0 Beta1 (By 247printing https://247printing.gumroad.com/)
+- 247/0 Beta2 (By 247printing https://247printing.gumroad.com/) (Inspiration)
 - Triple Z (By Coconut, Based on https://www.teamfdm.com/files/file/319-v01-belted-z-drive/)
 - AWD NEMA17 V0 CE (V2 Is reccomended) (By Coconut)
 - AWD NEMA17 V0 LE (By LittleTimTim https://github.com/LittleTimTim/V0-AWD-Tim-Style)
@@ -48,7 +54,6 @@ https://github.com/CoconutDevelopment/Stock-Voron-0/assets/110824572/2347116c-7d
 
 
 LittleTimTim's V0 AWD mod https://github.com/LittleTimTim/V0-AWD-Tim-Style
-
 
 
 https://github.com/CoconutDevelopment/Stock-Voron-0/assets/110824572/6bcad486-bbd0-41eb-bcec-efc06d3bc0a4
