@@ -8,7 +8,7 @@ Inspired by 247/0 Beta2
 Design goals:
 - Speedbenchy WR (Sub 2-minute)
   - 1500mm/s Velocity
-  - 250000mm/s3 Acceleration
+  - 250000mm/s^2 Acceleration
 
 - 4 motor NEMA17 4WD
   - 48-60mm NEMA17 support
