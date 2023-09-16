@@ -10,9 +10,9 @@ Design goals:
   - 1500mm/s Velocity
   - 250000mm/s3 Acceleration
 
-- 4 motor NEMA17 AWD
+- 4 motor NEMA17 4WD
   - 48-60mm NEMA17 support
-  - Seperate control board
+  - Separate control board
 
 - Belted z (80t gearing)
   - Fast Z hops and no z binding
@@ -40,7 +40,7 @@ Design goals:
 
 Upgrades:
 - 247/0 Beta2 (By 247printing https://247printing.gumroad.com/) (Inspiration)
-- Triple Z (By Coconut, Based on https://www.teamfdm.com/files/file/319-v01-belted-z-drive/)
+- Belted Z (By Coconut, Based on https://www.teamfdm.com/files/file/319-v01-belted-z-drive/)
 - AWD NEMA17 V0 CE (V2 Is reccomended) (By Coconut)
 - AWD NEMA17 V0 LE (By LittleTimTim https://github.com/LittleTimTim/V0-AWD-Tim-Style)
 - Dual actively Lrs-150s (By Coconut)
