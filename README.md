@@ -7,8 +7,8 @@ Inspired by 247/0 Beta2
 
 Design goals:
 - Speedbenchy WR (Sub 2-minute)
-  - 1500mm/s Velocity
-  - 250000mm/s^2 Acceleration
+  - 2000mm/s Velocity
+  - 300000mm/s^2 Acceleration
 
 - 4 motor NEMA17 4WD
   - 48-60mm NEMA17 support
@@ -18,7 +18,7 @@ Design goals:
   - Fast Z hops and no z binding
 
 - External cooling
-  - Ground's Internal Sheet Cooling Ducts
+  - Coconut's Triple Fan Ducts
   - 12KPA CPAP fan
 
 - Extremely Lightweight X gantry
@@ -37,6 +37,11 @@ Design goals:
 - Enclosure
     - Has to be enclosable using the 0.2 Tophat
     - Has to be ABS capable
+
+- M4 Max
+    - Strongest extruder feasable
+    - Double Shear
+    - Robust
 
 Upgrades:
 - 247/0 Beta2 (By 247printing https://247printing.gumroad.com/) (Inspiration)
