@@ -7,15 +7,17 @@ Inspired by 247/0 Beta2
 
 Design goals:
 - Speedbenchy WR (Sub 2-minute)
-  - 2000mm/s Velocity
+  - 1000mm/s Velocity
   - 300000mm/s^2 Acceleration
 
 - 4 motor NEMA17 4WD
   - 48-60mm NEMA17 support
   - Separate control board
 
-- Belted z (80t gearing)
+- Triple Belted z (worm gearing)
   - Fast Z hops and no z binding
+  - Auto bed tramming
+  - Ultralow Profile
 
 - External cooling
   - Coconut's Triple Fan Ducts
@@ -26,7 +28,7 @@ Design goals:
   - Bowden Ultralight Toolhead
   - External esp
   - Ultralight Xy joints
-  - CNC hollowed mgn9 rail
+  - CNC hollowed mgn7 rail
 
 - Nema17 4WD Coconut edition
   - Extreme motor grip (200+ degrees)
@@ -37,24 +39,24 @@ Design goals:
 - Enclosure
     - Has to be enclosable using the 0.2 Tophat
     - Has to be ABS capable
+    - All part cooling must draw enclosure air
 
 - M4 Max
-    - Strongest extruder feasable
+    - Strongest extruder possible
     - Double Shear
-    - Robust
+    - Short Bowden tube
 
 Upgrades:
 - 247/0 Beta2 (By 247printing https://247printing.gumroad.com/) (Inspiration)
-- Belted Z (By Coconut, Based on https://www.teamfdm.com/files/file/319-v01-belted-z-drive/)
 - AWD NEMA17 V0 CE (V2 Is reccomended) (By Coconut)
 - AWD NEMA17 V0 LE (By LittleTimTim https://github.com/LittleTimTim/V0-AWD-Tim-Style)
-- Dual actively Lrs-150s (By Coconut)
-- MGN9C on X Bowden (By Coconut)
+- Dual Lrs-150s (By Coconut)
 - Vzbot inspired frame braces (By Kl3pt https://www.printables.com/model/450049-voron-v0-frame-brace)
 - Skr mini e3 v2 + Annex Constellation supernova
 - 48V Meanwell UHP-500-48
 - Ultralightweight X gantry + XY joints
 - Modded Thick Belted Z (By MathmaticalPotato https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/MathematicalPotato/v0.1_belted_z_drive)
+- Coconut triple fan ducts (By Coconut)
 
 Coconut's V0 AWD V2 mod
 (On RC1)
