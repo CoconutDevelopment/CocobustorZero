@@ -5,6 +5,8 @@ An small upgrade for the Voron 0.2 to make it print slightly faster
 BASED ON VORONDESIGN V0.1 https://github.com/VoronDesign/Voron-0
 Inspired by 247/0 Beta2
 
+(FORMBOT Full kit possibly comming your way soon)
+
 Design goals:
 - Speedbenchy WR (Sub 2-minute)
   - 1000mm/s Velocity
