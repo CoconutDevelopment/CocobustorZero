@@ -6,6 +6,7 @@ BASED ON VORONDESIGN V0.1 https://github.com/VoronDesign/Voron-0
 Inspired by 247/0 Beta2
 
 (FORMBOT Full kit possibly comming your way soon)
+Join my discord if you want : https://discord.gg/AjryAUX7Z3
 
 Design goals:
 - Speedbenchy WR (Sub 2-minute)
